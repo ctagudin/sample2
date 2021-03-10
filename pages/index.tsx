@@ -29,9 +29,7 @@ const Hero = () => (<div className="relative pt-16 pb-32 flex content-center ite
             Your story starts with us.
               </h1>
           <p className="mt-4 text-lg text-gray-300">
-            This is a simple example of a Landing Page you can build
-            using Tailwind Starter Kit. It features multiple CSS
-            components based on the Tailwindcss design system.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
               </p>
         </div>
       </div>
